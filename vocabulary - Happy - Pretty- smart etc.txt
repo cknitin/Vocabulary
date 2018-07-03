@@ -1,49 +1,49 @@
 Pretty			Smart	
-	Beautiful			Witty
+	Beautiful		Witty
 	Lovely			Bright
-	Attractive			intelligent
+	Attractive		intelligent
 	Cute			cleaver
-	Exquisite			Ingenious
-	Gorgeous			Sharp
-	Handsome			Brainy
+	Exquisite		Ingenious
+	Gorgeous		Sharp
+	Handsome		Brainy
 	Fair			wise
 				
 Big			Little	
 	Huge			Teeny
 	large			Small
 	great			Diminutive
-	Gigantic			tiny
-	Enormous			Compact
+	Gigantic		tiny
+	Enormous		Compact
 	Massive			Slight
 	Giant			Wee
-	Colossal			Minute
+	Colossal		Minute
 				
 Funny			Nice	
 	Amusing			Kind
-	Hilarious			Agreeable
+	Hilarious		Agreeable
 	witty			Benevolent
-	Laughable			Warm
+	Laughable		Warm
 	Comical			Gracious
 	Silly			Cordial
 	Jocular			Decent
-	Farcical			Humane
+	Farcical		Humane
 				
 Happy			Sad	
 	Glad			Downed
 	Jovial			unhappy
 	Joyful			depressed
-	Cheerful			woeful
+	Cheerful		woeful
 	Merry			gloomy
-	Contented			mournful
+	Contented		mournful
 	Pleased			sorowful
 	Jolly			miserable
 				
 Good			Bad	
 	Great			Evil
-	Pleasent			Obscene
-	marvelous			Dreadful
-	wonderfull			Vile
-	Splendid			Brutal
+	Pleasent		Obscene
+	marvelous		Dreadful
+	wonderfull		Vile
+	Splendid		Brutal
 	Superb			Despicable
-	Terrific			Nasty
+	Terrific		Nasty
 	Amazing			Wicked
