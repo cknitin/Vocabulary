@@ -8,21 +8,21 @@
 ## slave driver
 a person who makes others work very hard.
 1. दारोग़ा
-2. शोषक
+2. शोषक <br />
 She was far too easy-going to be a slave driver <br />
 synonyms:(hard) taskmaster, (hard) taskmistress, tyrant
 
 ## bootlicker 
 an obsequious or servile person.
 1. चापलूस
-2. चाटुकार
+2. चाटुकार <br />
 he's got bootlickers telling him what a big star he's going to be <br />
 "there was a crowd of bootlickers telling him what a star he would be" 
 
 ## martinet
 mɑːtɪˈnɛt
 1. उग्र दण्ड
-2. कड़ा अनुशासक
+2. कड़ा अनुशासक <br />
 a person who demands complete obedience; a strict disciplinarian. <br />
 the woman in charge was a martinet who treated all those beneath her like children
 You are a martinet. 
@@ -31,6 +31,6 @@ You are a martinet.
 /ˈsɪkəfant
 1. चापलूस
 2. अति अनुरोधी
-1. पिट्ठू
+1. पिट्ठू <br />
 a person who acts obsequiously towards someone important in order to gain advantage. <br />
 You are a sycophant. 
