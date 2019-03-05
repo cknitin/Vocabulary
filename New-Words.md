@@ -34,3 +34,10 @@ You are a martinet.
 1. पिट्ठू <br />
 a person who acts obsequiously towards someone important in order to gain advantage. <br />
 You are a sycophant. 
+
+## dabbler
+UK /ˈdæb.lər/ US /ˈdæb.lɚ/
+someone who takes a slight and not very serious interest in a subject, or tries a particular activity for a short period:
+
+They are dabblers in African music rather than experts.
+I'm not a real painter - just a dabbler.
